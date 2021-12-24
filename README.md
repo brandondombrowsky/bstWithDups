@@ -1,5 +1,5 @@
 # bstWithDups
-This project had us learning to code a binary search tree with duplicates, utilizing the x = change(x) function coding approach, implementing recursion for Tree algorithms, all using generics. We were also required to create object and class diagrams, which are included in the Design Docs file.
+This project had us learning to code a binary search tree with duplicates, utilizing the x = change(x) function coding approach, implementing recursion for Tree algorithms, all using generics. We were also required to create object and class diagrams before we started coding, which are included in the DesignDocs file.
 
 A. The included src file contains the following classes:
   1. Main - to demo code functionality
