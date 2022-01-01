@@ -22,4 +22,4 @@ This project had us learning to code a binary search tree with duplicates, utili
 - No bugs or runtime errors expected
 
 # Code output:
-> A text file called Results.txt
+> A text file called Results.txt. Ex: Output.jpeg
