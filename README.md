@@ -21,4 +21,4 @@ This project had us learning to code a binary search tree with duplicates, utili
 - No bugs or runtime errors expected
 
 # Code output file:
-  A text file called Results.txt
+> A text file called Results.txt
