@@ -20,5 +20,5 @@ This project had us learning to code a binary search tree with duplicates, utili
 - Run program from Main class  
 - No bugs or runtime errors expected
 
-# Code output file:
+# Code output:
 > A text file called Results.txt
