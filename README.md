@@ -12,12 +12,12 @@ This project had us learning to code a binary search tree with duplicates, utili
   8. stringTestFile.txt - a test file with 10 Strings
 
 # Build instructions:
-> The build insructions to make bstWithDups work
-- Copy each Java file into its own class with matching name in new source folder
-- Copy each text file into its own text file with matching name in same source file
-- Alternatively download and drag entire src file into desktop IDE icon
-- Run program from Main class  
-- No bugs or runtime errors expected
+> The build insructions to make bstWithDups work.
+- Copy each Java file into its own class with matching name in new source folder.
+- Copy each text file into its own text file with matching name in same source file.
+- Alternatively download and drag entire src file into desktop IDE icon.
+- Run program from Main class.
+- No bugs or runtime errors expected.
 
 # Code output:
-> A text file called Results.txt. Ex: Output.jpeg
+> A text file called Results.txt. Ex: Output.jpeg.
