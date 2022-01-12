@@ -24,4 +24,4 @@ This project had us learning to code a binary search tree with duplicates, utili
 # Code output:
 > A text file called Results.txt. Ex: Output.jpeg.
 
-[![Output.jpg](https://i.postimg.cc/T2zZdzSR/Output.jpg)](https://postimg.cc/s1JnKNs8)
+[![Output.jpg](https://i.postimg.cc/vHdbqxGL/Output.jpg)](https://postimg.cc/z3ps3BbV)
