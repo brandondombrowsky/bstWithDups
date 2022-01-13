@@ -28,6 +28,6 @@ This project had us learning to code binary search trees with duplicates, utiliz
 - No bugs or runtime errors expected.
 
 # Code output:
-> A text file called Results.txt. Ex: Output.jpeg.
+> A text file called Results.txt:
 
 [![Output.jpg](https://i.postimg.cc/vHdbqxGL/Output.jpg)](https://postimg.cc/z3ps3BbV)
