@@ -1,8 +1,6 @@
 # bstWithDups
 This project had us learning to code binary search trees with duplicates, utilizing the x = change(x) approach, implementing recursion for Tree algorithms, all while using generics. We were also required to create object and class diagrams before we started coding.
 
-[![design1.jpg](https://i.postimg.cc/QCdbxcP7/design1.jpg)](https://postimg.cc/Pp0ZSvdf)
-
 [![bst.jpg](https://i.postimg.cc/Yqtzz8L6/bst.jpg)](https://postimg.cc/ThHbRV91)
 
 # Contents of src file:
